@@ -200,6 +200,8 @@ root/ui/***/***
 root/ui/***/***/***
 root/ui/***/***/***/***
 
+data/list.json
+
 index.debug/***
 index.premium.debug/***
 
